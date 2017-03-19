@@ -16,12 +16,12 @@
 }
 
 
-.date {
+.Date {
 	float: right;
 	font-size: 16px;
 }
 
-.Selection-Headers{
+.Section-Headers {
 	width: 20%;
 	float: left;
 	font-weight: bold;
