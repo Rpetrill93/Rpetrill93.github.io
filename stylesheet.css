@@ -11,7 +11,8 @@
 	font-size: 28px;
 }
 
-
+.date {
+	float: right;
 
 h3 {
 	border-bottom: 1px solid #999;
