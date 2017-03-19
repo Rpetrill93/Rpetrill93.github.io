@@ -1,11 +1,7 @@
-body { 
-	width: 90%;
-	margin: 0 auto;
-}
-
 
 #Name {
-	margin: 0 0 16px 0;
+	margin: 0 auto;
+	width: 90%;
 	padding: 0 0 16px 0;
 	font-size: 42px;
 	font-weight: bold;
