@@ -10,6 +10,11 @@
 	border-bottom: 1px solid #999;
 }
 
+#Contact-Info {
+	width: 90%;
+	text-align: center;
+}
+
 #Education-Header {
 	font-size: 28px;
 }
