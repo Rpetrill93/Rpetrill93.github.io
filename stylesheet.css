@@ -38,6 +38,7 @@ h4 {
 }
 
 h3{
+	float: left;
 	border-bottom: 1px solid black;
 }
 
