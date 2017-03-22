@@ -9,6 +9,19 @@
 	border-bottom: 1px solid black;
 }
 
+#IU {
+	float: left;
+}
+
+#Experience-Content {
+	float: left;
+}
+
+#Leadership-Content {
+	float: left;
+}
+
+
 #Contact-Info {
 	width: 90%;
 	text-align: center;
