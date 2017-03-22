@@ -6,7 +6,7 @@
 	font-size: 42px;
 	font-weight: bold;
 	letter-spacing: -2px;
-	border-bottom: 1px solid #999;
+	border-bottom: 1px solid black;
 }
 
 #Contact-Info {
@@ -18,6 +18,10 @@
 .date {
 	float: right;
 	font-size: 16px;
+}
+
+h3{
+	border-bottom: 1px solid black;
 }
 
 #GPA {
