@@ -46,6 +46,7 @@ body {
 	width: 90%;
 	float: left;
 	font-size: 24px;
+	font-weight: bold;
 	color: SteelBlue;
 	border-bottom: 1px solid black;
 }
@@ -77,4 +78,8 @@ ul {
 .date {
 	float: right;
 	font-size: 16px;
+}
+
+img {
+	float: right;
 }
