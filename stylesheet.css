@@ -40,6 +40,7 @@ h3{
 }
 
 #GPA {
+	width: 100%;
 	float:right;
 	font-size: 16px;
 }
