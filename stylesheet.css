@@ -34,13 +34,6 @@
 }
 
 
-h3{
-	margin: 0 auto;
-	width: 90%;
-	float: left;
-	border-bottom: 1px solid black;
-}
-
 #GPA {
 	width: 90%;
 	float:right;
@@ -65,6 +58,13 @@ h3{
 
 .experience {
 	float:left;
+}
+
+h3{
+	margin: 0 auto;
+	width: 90%;
+	float: left;
+	border-bottom: 1px solid black;
 }
 
 h4 {
