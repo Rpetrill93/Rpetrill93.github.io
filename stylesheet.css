@@ -39,6 +39,7 @@ body {
 }
 
 #Majors {
+	margin:3px;
 	float:left;
 	font-size: 16px;
 }
