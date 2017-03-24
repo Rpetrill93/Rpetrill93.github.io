@@ -34,7 +34,7 @@ body {
 }
 
 #Degree {
-	margin: 0 0 0 3px;
+	margin-bottom: 3px;
 	padding: 0px;
 	float: left;
 	font-size: 16px;
@@ -70,7 +70,6 @@ h4 {
 ul {
 	width: 75%;
 	float: left;
-	line-height: 1.5px;
 	font-size: 16px;
 }
 
